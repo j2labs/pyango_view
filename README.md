@@ -25,7 +25,7 @@ Urdu works nicely. Pango is very robust!
     ...         width=538)
     0
 
-<a href="/j2labs/pyango_view/raw/images/urdu_works.png"><img src="/j2labs/pyango_view/raw/images/urdu_works.png" /></a>
+<a href="/j2labs/pyango_view/raw/master/docs/images/urdu_works.png"><img src="/j2labs/pyango_view/raw/master/docs/images/urdu_works.png" /></a>
 
 It can handle newlines and print programming code nicely.
 
@@ -40,7 +40,7 @@ It can handle newlines and print programming code nicely.
     >>> str2img(text, font='Courier New', output='/Users/jd/Desktop/couriernew.jpg')
     0
 
-<a href="/j2labs/pyango_view/raw/images/programming_code.png"><img src="/j2labs/pyango_view/raw/images/programming_code.png" /></a>
+<a href="/j2labs/pyango_view/raw/master/docs/images/programming_code.png"><img src="/j2labs/pyango_view/raw/master/docs/images/programming_code.png" /></a>
     
 Install
 -------
