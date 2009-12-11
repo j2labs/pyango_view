@@ -15,7 +15,7 @@ Goopytrans supports translating a single body of text.
     >>> str2img('texty text', font='Courier New')
     0
 
-<a href="/j2labs/pyango_view/docs/images/textytext.png"><img src="/j2labs/pyango_view/docs/images/shrunk/textytext.png" /></a>
+<a href="/j2labs/pyango_view/tree/master/docs/images/textytext.png"><img src="/j2labs/pyango_view/tree/master/docs/images/shrunk/textytext.png" /></a>
 
 Urdu works nicely. Pango is very robust!
 
