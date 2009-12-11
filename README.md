@@ -37,10 +37,10 @@ It can handle newlines and print programming code nicely.
     ... """
     >>> text
     "\n>>> def foo():\n...     print 'foo foo foo foo foo'\n...\n>>>\n"
-    >>> str2img(text, font='Courier New', output='/Users/jd/Desktop/couriernew.jpg')
+    >>> str2img(text, font='Courier New', output='/Users/jd/Desktop/programming_code.jpg')
     0
 
-<a href="/j2labs/pyango_view/raw/master/docs/images/programming_code.png"><img src="/j2labs/pyango_view/raw/master/docs/images/programming_code.png" /></a>
+<a href="/j2labs/pyango_view/raw/master/docs/images/programming_code.jpg"><img src="/j2labs/pyango_view/raw/master/docs/images/programming_code.jpg" /></a>
     
 Install
 -------
