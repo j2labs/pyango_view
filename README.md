@@ -12,6 +12,7 @@ Pyango View is simply a mapping and some pythonish documentation for accessing t
 
 Goopytrans supports translating a single body of text.
 
+    >>> from pyango_view import str2img
     >>> str2img('texty text', font='Courier New')
     0
 
