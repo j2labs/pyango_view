@@ -16,7 +16,7 @@ Goopytrans supports translating a single body of text.
     >>> str2img('texty text', font='Courier New')
     0
 
-![image of text](/j2labs/pyango_view/raw/master/docs/images/textytext.png)
+![image of text](docs/images/textytext.png)
 
 Urdu works nicely. Pango is very robust!
 
@@ -26,7 +26,7 @@ Urdu works nicely. Pango is very robust!
     ...         width=538)
     0
 
-![image of text](/j2labs/pyango_view/raw/master/docs/images/urdu_works.png)
+![image of text](docs/images/urdu_works.png)
 
 It can handle newlines and print programming code nicely.
 
@@ -41,7 +41,7 @@ It can handle newlines and print programming code nicely.
     >>> str2img(text, font='Courier New', output='/Users/jd/Desktop/programming_code.jpg')
     0
 
-![image of text](/j2labs/pyango_view/raw/master/docs/images/programming_code.jpg)
+![image of text](docs/images/programming_code.jpg)
     
 Install
 -------
